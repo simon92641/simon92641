@@ -1,16 +1,28 @@
-## Hi there 👋
+# Simon Wang
 
-<!--
-**simon92641/simon92641** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Enterprise IT support · Building automated IT support systems (WiderForm)**
 
-Here are some ideas to get you started:
+I work in enterprise IT support and build tools to make recurring support tasks easier to run and verify. My work covers Windows, Microsoft 365, Active Directory, networking, and workflow automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work experience
+
+### Help Desk Specialist · APL Logistics
+**February 2026 – Present · Contract**
+
+- Provide enterprise IT operations and project support across offices and warehouse sites, working with overseas teams when needed.
+- Support networks and infrastructure, Active Directory and access management, Microsoft 365, and onsite IT services.
+- Handle incident, problem, and change management.
+- Use PowerShell and RPA to standardize repetitive operations, generate reports, and improve service reliability.
+
+### Help Desk Specialist · JET IT Services
+**March 2025 – January 2026 · Full-time**
+
+## What I'm building
+
+**WiderForm** — an independent project focused on automated IT support systems. I am building tools that connect support requests with practical actions and verifiable results.
+
+[WiderForm](https://widerform.com)
+
+## Tools and interests
+
+PowerShell · Python · RPA · Windows · Microsoft 365 · Active Directory · Network administration
