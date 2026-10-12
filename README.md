@@ -12,7 +12,7 @@ I work in enterprise IT support and build tools to make recurring support tasks 
 - Provide enterprise IT operations and project support across offices and warehouse sites, working with overseas teams when needed.
 - Support networks and infrastructure, Active Directory and access management, Microsoft 365, and onsite IT services.
 - Handle incident, problem, and change management.
-- Use PowerShell and RPA to standardize repetitive operations, generate reports, and improve service reliability.
+- Standardize repetitive operations, automate reporting, and improve service reliability.
 
 ### Help Desk Specialist · JET IT Services
 **March 2025 – January 2026 · Full-time**
@@ -22,7 +22,3 @@ I work in enterprise IT support and build tools to make recurring support tasks 
 **WiderForm** — an independent project focused on automated IT support systems. I am building tools that connect support requests with practical actions and verifiable results.
 
 [WiderForm](https://widerform.com)
-
-## Tools and interests
-
-PowerShell · Python · RPA · Windows · Microsoft 365 · Active Directory · Network administration
